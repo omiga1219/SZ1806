@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env python
 print("hello world!")
 
 def max(num1,num2):
