@@ -1,6 +1,7 @@
 #!/bin/bash
 print("hello world!")
-def max(*args):
+
+def max(num1,num2):
     return num1+num2
 
 num1 = input('输入数字1：')
